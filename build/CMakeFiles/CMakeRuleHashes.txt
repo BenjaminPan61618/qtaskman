@@ -1,0 +1,13 @@
+# Hashes of file build rules.
+20d40e13366013a708229f1bae669e59 .qt/qml_imports/qtaskman_build.cmake
+7907c9f7a83be9cbd56c2a6964879960 .qt/rcc/qrc_assets.cpp
+aa49530d08b3e0a4e36dbf14742f9f76 .qt/rcc/qrc_qml.cpp
+ba6996e76456f42dc901ee8e88b6e5ff .qt/rcc/qrc_qtaskman_translations.cpp
+b4b1baf82148993b7b1846b998b5071e .qt/rcc/qrc_translations.cpp
+7ecaff4024c0d4a25cae5bf7fe6a0b72 CMakeFiles/qtaskman_autogen
+7ecaff4024c0d4a25cae5bf7fe6a0b72 CMakeFiles/qtaskman_lrelease
+ec91a32bc7a2a6f9ac4d002bfa84806c CMakeFiles/qtaskman_lupdate
+7ecaff4024c0d4a25cae5bf7fe6a0b72 CMakeFiles/qtaskman_qmlimportscan
+4e6f76feadf5de350044b4bf28bb3e28 qtaskman_autogen/timestamp
+7252921edc93cd398ec2e5c40814c8cd qtaskman_en_US.qm
+094a0257c40ccd461f6a1e4755c171a6 qtaskman_zh_CN.qm

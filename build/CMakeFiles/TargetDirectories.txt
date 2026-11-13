@@ -1,0 +1,14 @@
+/home/benjamin/qtaskman/build/CMakeFiles/qtaskman.dir
+/home/benjamin/qtaskman/build/CMakeFiles/qtaskman_qmlimportscan.dir
+/home/benjamin/qtaskman/build/CMakeFiles/qtaskman_lupdate.dir
+/home/benjamin/qtaskman/build/CMakeFiles/update_translations.dir
+/home/benjamin/qtaskman/build/CMakeFiles/qtaskman_lrelease.dir
+/home/benjamin/qtaskman/build/CMakeFiles/release_translations.dir
+/home/benjamin/qtaskman/build/CMakeFiles/edit_cache.dir
+/home/benjamin/qtaskman/build/CMakeFiles/rebuild_cache.dir
+/home/benjamin/qtaskman/build/CMakeFiles/list_install_components.dir
+/home/benjamin/qtaskman/build/CMakeFiles/install.dir
+/home/benjamin/qtaskman/build/CMakeFiles/install/local.dir
+/home/benjamin/qtaskman/build/CMakeFiles/install/strip.dir
+/home/benjamin/qtaskman/build/CMakeFiles/qtaskman_autogen_timestamp_deps.dir
+/home/benjamin/qtaskman/build/CMakeFiles/qtaskman_autogen.dir

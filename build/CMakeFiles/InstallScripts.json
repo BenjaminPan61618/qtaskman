@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/benjamin/qtaskman/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

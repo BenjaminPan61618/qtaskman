@@ -1,0 +1,13 @@
+-rootPath
+/home/benjamin/qtaskman
+-cmake-output
+-output-file
+/home/benjamin/qtaskman/build/.qt/qml_imports/qtaskman_build.cmake
+-importPath
+/home/benjamin/qtaskman/build
+-importPath
+/home/benjamin/Qt/6.10.0/gcc_64/qml
+-qrcFiles
+/home/benjamin/qtaskman/build/.qt/rcc/translations.qrc
+/home/benjamin/qtaskman/build/.qt/rcc/assets.qrc
+/home/benjamin/qtaskman/build/.qt/rcc/qml.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="assets/qtaskman.svg">/home/benjamin/qtaskman/assets/qtaskman.svg</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="qtaskman_zh_CN.qm">/home/benjamin/qtaskman/build/qtaskman_zh_CN.qm</file>
+    <file alias="qtaskman_en_US.qm">/home/benjamin/qtaskman/build/qtaskman_en_US.qm</file>
+  </qresource>
+</RCC>
+
